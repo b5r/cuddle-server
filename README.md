@@ -1,7 +1,5 @@
-<p align="leftr"><img src="docs/assets/logomark.png" alt="Mailu" height="200px"></p>
-
-
-Mailu is a simple yet full-featured mail server as a set of Docker images.
+# cuddle.email
+cuddle is a simple yet full-featured mail server as a set of Docker images.
 It is free software (both as in free beer and as in free speech), open to
 suggestions and external contributions. The project aims at providing people
 with an easily setup, easily maintained and full-featured mail server while
@@ -31,7 +29,7 @@ Main features include:
 Contributing
 ============
 
-Mailu is free software, open to suggestions and contributions. All
+Cuddle is free software, open to suggestions and contributions. All
 components are free software and compatible with the MIT license. All
 specific configuration files, Dockerfiles and code are placed under the
 MIT license.
